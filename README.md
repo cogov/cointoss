@@ -1,6 +1,6 @@
 # cointoss and CoGov
 
-This repository was forked from the Holochain team because some of the initial protocol specifications were written in the Alpha Go version of Holochain. Relevant code here in the "governance" branch: [dna/cogov](https://github.com/cogov/cointoss/tree/governance/dna/cogov)
+This repository was forked from the Holochain team because some of the initial protocol specifications were written in the [Holochain Prototype](https://github.com/holochain/holochain-proto), which was alpha released in December, 2017. Relevant code here in the "governance" branch: [dna/cogov](https://github.com/cogov/cointoss/tree/governance/dna/cogov)
 
 # cointoss
 

@@ -1,6 +1,6 @@
 # cointoss and CoGov
 
-This repository was forked from the Holochain team because some of the initial protocol specifications were written in the Alpha Go version of Holochain. Relevant code here: [dna/cogov]
+This repository was forked from the Holochain team because some of the initial protocol specifications were written in the Alpha Go version of Holochain. Relevant code here in the "governance" branch: [dna/cogov](https://github.com/cogov/cointoss/tree/governance/dna/cogov)
 
 # cointoss
 

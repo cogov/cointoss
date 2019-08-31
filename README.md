@@ -1,3 +1,7 @@
+# cointoss and CoGov
+
+This repository was forked from the Holochain team because some of the initial protocol specifications were written in the Alpha Go version of Holochain. Relevant code here: [dna/cogov]
+
 # cointoss
 
 [![Code Status](https://img.shields.io/badge/Code-Pre--Alpha-orange.svg)](https://github.com/Holochain/cointoss#feature-roadmap-and-current-progress)
